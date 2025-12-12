@@ -52,3 +52,4 @@ public class GUI {
         }
     }
 }
+//https://www.w3schools.com/charsets/ref_utf_box.asp
